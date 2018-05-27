@@ -8,6 +8,6 @@ PhysicMaterial:
   m_Name: Wood_Standard
   dynamicFriction: 0.05
   staticFriction: 0.4
-  bounciness: 0.4
+  bounciness: 0.2
   frictionCombine: 0
   bounceCombine: 0

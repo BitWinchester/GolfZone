@@ -259,7 +259,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   length: 0
-  powerSensitivity: 0.1
+  powerSensitivity: 0.05
   ball: {fileID: 54946848502191706}
 --- !u!114 &114401516119637304
 MonoBehaviour:
